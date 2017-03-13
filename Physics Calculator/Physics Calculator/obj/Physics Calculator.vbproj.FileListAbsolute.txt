@@ -1,0 +1,23 @@
+D:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Debug\Physics Calculator.exe
+D:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Debug\Physics Calculator.xml
+D:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Debug\Physics Calculator.pdb
+D:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\bin\Debug\Physics Calculator.exe.manifest
+D:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\bin\Debug\Physics Calculator.application
+D:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\bin\Debug\Physics Calculator.exe
+D:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\bin\Debug\Physics Calculator.pdb
+D:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\bin\Debug\Physics Calculator.xml
+D:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Debug\ResolveAssemblyReference.cache
+D:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Debug\Physics_Calculator.AboutBlu_2.resources
+D:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Debug\Physics_Calculator.frmElectricity.resources
+D:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Debug\Physics_Calculator.frmFormulas.resources
+D:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Debug\Physics_Calculator.frmGeometricalOptics.resources
+D:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Debug\Physics_Calculator.frmHeat.resources
+D:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Debug\Physics_Calculator.frmMechAndPropOfMatter.resources
+D:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Debug\Physics_Calculator.frmNuclearPhysics.resources
+D:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Debug\Physics_Calculator.frmSIUnits.resources
+D:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Debug\Physics_Calculator.mdiPhysicsHome.resources
+D:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Debug\Physics_Calculator.Resources.resources
+D:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Debug\Physics_Calculator.Welcome.resources
+D:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Debug\Physics Calculator.vbproj.GenerateResource.Cache
+D:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Debug\Physics Calculator.exe.manifest
+D:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Debug\Physics Calculator.application

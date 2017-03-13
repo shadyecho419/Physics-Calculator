@@ -1,0 +1,44 @@
+obj\Debug\Physics Calculator.exe
+obj\Debug\Physics Calculator.xml
+obj\Debug\Physics Calculator.pdb
+bin\Debug\Physics Calculator.exe
+bin\Debug\Physics Calculator.pdb
+bin\Debug\Physics Calculator.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Physics_Calculator.Resources.resources
+obj\Debug\Physics Calculator.vbproj.GenerateResource.Cache
+obj\Debug\Physics_Calculator.frmGeometricalOptics.resources
+obj\Debug\Physics_Calculator.frmHeat.resources
+obj\Debug\Physics_Calculator.frmNuclearPhysics.resources
+obj\Debug\Physics_Calculator.frmMechAndPropOfMatter.resources
+obj\Debug\Physics_Calculator.frmElectricity.resources
+obj\Debug\Physics_Calculator.mdiPhysicsHome.resources
+obj\Debug\Physics_Calculator.AboutBlu_2.resources
+obj\Debug\Physics_Calculator.Welcome.resources
+bin\Release\Physics Calculator.exe.manifest
+bin\Release\Physics Calculator.application
+bin\Release\Physics Calculator.exe
+bin\Release\Physics Calculator.pdb
+bin\Release\Physics Calculator.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Physics_Calculator.AboutBlu_2.resources
+obj\Release\Physics_Calculator.frmElectricity.resources
+obj\Release\Physics_Calculator.frmGeometricalOptics.resources
+obj\Release\Physics_Calculator.frmHeat.resources
+obj\Release\Physics_Calculator.frmMechAndPropOfMatter.resources
+obj\Release\Physics_Calculator.frmNuclearPhysics.resources
+obj\Release\Physics_Calculator.mdiPhysicsHome.resources
+obj\Release\Physics_Calculator.Resources.resources
+obj\Release\Physics_Calculator.Welcome.resources
+obj\Release\Physics Calculator.vbproj.GenerateResource.Cache
+obj\Release\Physics Calculator.exe.manifest
+obj\Release\Physics Calculator.application
+obj\Release\Physics Calculator.exe
+obj\Release\Physics Calculator.xml
+obj\Release\Physics Calculator.pdb
+bin\Debug\Physics Calculator.exe.manifest
+bin\Debug\Physics Calculator.application
+obj\Debug\Physics Calculator.exe.manifest
+obj\Debug\Physics Calculator.application
+obj\Debug\Physics_Calculator.frmFormulas.resources
+obj\Debug\Physics_Calculator.frmSIUnits.resources

@@ -1,0 +1,116 @@
+G:\Projects\Visual Basic\Physics Calculator\Physics Calculator\bin\Release\Physics Calculator.exe.manifest
+G:\Projects\Visual Basic\Physics Calculator\Physics Calculator\bin\Release\Physics Calculator.application
+G:\Projects\Visual Basic\Physics Calculator\Physics Calculator\bin\Release\Physics Calculator.exe
+G:\Projects\Visual Basic\Physics Calculator\Physics Calculator\bin\Release\Physics Calculator.pdb
+G:\Projects\Visual Basic\Physics Calculator\Physics Calculator\bin\Release\Physics Calculator.xml
+G:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\ResolveAssemblyReference.cache
+G:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.AboutBlu_2.resources
+G:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmElectricity.resources
+G:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmFormulas.resources
+G:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmGeometricalOptics.resources
+G:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmHeat.resources
+G:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmMechAndPropOfMatter.resources
+G:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmNuclearPhysics.resources
+G:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmSIUnits.resources
+G:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.mdiPhysicsHome.resources
+G:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.Resources.resources
+G:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.Welcome.resources
+G:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.vbproj.GenerateResource.Cache
+G:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.exe.manifest
+G:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.application
+G:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.exe
+G:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.xml
+G:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.pdb
+H:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.exe
+H:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.xml
+H:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.pdb
+H:\Projects\Visual Basic\Physics Calculator\Physics Calculator\bin\Release\Physics Calculator.exe.manifest
+H:\Projects\Visual Basic\Physics Calculator\Physics Calculator\bin\Release\Physics Calculator.application
+H:\Projects\Visual Basic\Physics Calculator\Physics Calculator\bin\Release\Physics Calculator.exe
+H:\Projects\Visual Basic\Physics Calculator\Physics Calculator\bin\Release\Physics Calculator.pdb
+H:\Projects\Visual Basic\Physics Calculator\Physics Calculator\bin\Release\Physics Calculator.xml
+H:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\ResolveAssemblyReference.cache
+H:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.AboutBlu_2.resources
+H:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmElectricity.resources
+H:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmFormulas.resources
+H:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmGeometricalOptics.resources
+H:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmHeat.resources
+H:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmMechAndPropOfMatter.resources
+H:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmNuclearPhysics.resources
+H:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmSIUnits.resources
+H:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.mdiPhysicsHome.resources
+H:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.Resources.resources
+H:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.Welcome.resources
+H:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.vbproj.GenerateResource.Cache
+H:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.exe.manifest
+H:\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.application
+E:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.exe
+E:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.xml
+E:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.pdb
+E:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\bin\Release\Physics Calculator.exe.manifest
+E:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\bin\Release\Physics Calculator.application
+E:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\bin\Release\Physics Calculator.exe
+E:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\bin\Release\Physics Calculator.pdb
+E:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\bin\Release\Physics Calculator.xml
+E:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\ResolveAssemblyReference.cache
+E:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.AboutBlu_2.resources
+E:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmElectricity.resources
+E:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmFormulas.resources
+E:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmGeometricalOptics.resources
+E:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmHeat.resources
+E:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmMechAndPropOfMatter.resources
+E:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmNuclearPhysics.resources
+E:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmSIUnits.resources
+E:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.mdiPhysicsHome.resources
+E:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.Resources.resources
+E:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.Welcome.resources
+E:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.vbproj.GenerateResource.Cache
+E:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.exe.manifest
+E:\My Files\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.application
+D:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\bin\Release\Physics Calculator.exe.manifest
+D:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\bin\Release\Physics Calculator.application
+D:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\bin\Release\Physics Calculator.exe
+D:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\bin\Release\Physics Calculator.pdb
+D:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\bin\Release\Physics Calculator.xml
+D:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.AboutBlu_2.resources
+D:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmElectricity.resources
+D:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmFormulas.resources
+D:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmGeometricalOptics.resources
+D:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmHeat.resources
+D:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmMechAndPropOfMatter.resources
+D:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmNuclearPhysics.resources
+D:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmSIUnits.resources
+D:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.mdiPhysicsHome.resources
+D:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.Resources.resources
+D:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.Welcome.resources
+D:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.vbproj.GenerateResource.Cache
+D:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.exe.manifest
+D:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.application
+D:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.exe
+D:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.xml
+D:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.pdb
+E:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.exe
+E:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.xml
+E:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.pdb
+E:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\bin\Release\Physics Calculator.exe.manifest
+E:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\bin\Release\Physics Calculator.application
+E:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\bin\Release\Physics Calculator.exe
+E:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\bin\Release\Physics Calculator.pdb
+E:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\bin\Release\Physics Calculator.xml
+E:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.AboutBlu_2.resources
+E:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmElectricity.resources
+E:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmFormulas.resources
+E:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmGeometricalOptics.resources
+E:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmHeat.resources
+E:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmMechAndPropOfMatter.resources
+E:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmNuclearPhysics.resources
+E:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.frmSIUnits.resources
+E:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.mdiPhysicsHome.resources
+E:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.Resources.resources
+E:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics_Calculator.Welcome.resources
+E:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.vbproj.GenerateResource.Cache
+E:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.exe.manifest
+E:\old stuff\Work\Projects\Visual Basic\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.application
+F:\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.exe
+F:\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.xml
+F:\Physics Calculator\Physics Calculator\obj\Release\Physics Calculator.pdb
